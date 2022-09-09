@@ -1,4 +1,4 @@
-# Gerador de nomes aleatórios para startup (startup_namer)
+# Gerador de nomes para startup (startup_namer)
 
 > Projeto com o objetivo de construir o código de uma aplicação funcional para gerar nomes constituídos por pares de palavras aleatórias em inglês e aprimorar minha base de conhecimentos de Dart e Flutter;
 
